@@ -37,5 +37,10 @@ footer {
   color: #940B92;
   text-align: center;
   font-family: 'Indie Flower', cursive;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  margin: auto;
 
 }
