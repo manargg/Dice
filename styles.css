@@ -1,8 +1,9 @@
 .container {
-  width: 70%;
+  width: 80%;
   margin: auto;
   text-align: center;
 }
+
 
 .dice {
   text-align: center;
@@ -13,8 +14,10 @@
 body {
   background-color: #E5D9F2;
   display: flex;
-  justify-content: center;
   align-items: center;
+  justify-content: center;
+  height: 100vh;  
+
 }
 
 h1 {
@@ -45,5 +48,5 @@ footer {
   right: 0;
   left: 0;
   margin: auto;
-font-size: 1rem;
+  font-size: 1.50rem;
 }
