@@ -12,13 +12,16 @@
 
 body {
   background-color: #E5D9F2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 h1 {
   margin: 30px;
   font-family: 'Lobster', cursive;
   text-shadow: 5px 0 #232931;
-  font-size: 8rem;
+  font-size: 7rem;
   color: #610C9F;
 }
 
@@ -42,5 +45,5 @@ footer {
   right: 0;
   left: 0;
   margin: auto;
-
+font-size: 1rem;
 }
